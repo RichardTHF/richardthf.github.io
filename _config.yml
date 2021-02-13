@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Richard Davies's Blog
+tagline: Dev, Networking and all things tech. 
 author :
   name : Richard Davies
   email : richardjdavies@me.com 
